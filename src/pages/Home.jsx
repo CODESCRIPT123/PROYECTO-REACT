@@ -1,4 +1,4 @@
-// src/pages/Home.jsx
+// pages
 import { useState, useEffect } from "react";
 import { getProducts, searchProducts } from "../services/api";
 import ProductCard from "../components/ProductCard";

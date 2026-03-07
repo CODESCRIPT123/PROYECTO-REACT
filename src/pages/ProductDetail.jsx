@@ -1,4 +1,4 @@
-// src/pages/ProductDetail.jsx
+// ProductDetail
 import { useState, useEffect, useContext } from "react";
 import { useParams, Link } from "react-router-dom";
 import { getProductById } from "../services/api";
