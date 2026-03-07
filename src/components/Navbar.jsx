@@ -10,7 +10,7 @@ export default function Navbar() {
     <nav className="bg-white shadow-md p-4 sticky top-0 z-50">
       <div className="container mx-auto flex justify-between items-center">
 
-        <Link to="/" className="text-2xl font-bold text-blue-00">
+        <Link to="/" className="text-2xl font-bold text-blue-600">
           Tiendita 
         </Link>
         <div className="flex gap-6 items-center">
